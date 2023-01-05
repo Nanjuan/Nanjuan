@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/nanjuan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/N3S_sec">
+  <a href="https://twitter.com/n3stortorres">
     <img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
