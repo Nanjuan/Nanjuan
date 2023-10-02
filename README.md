@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Apple-M1-%230071C5.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Ubuntu%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-%230078D6.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2013th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <br/>
