@@ -3,7 +3,7 @@
 </h1>
 <!-- Some of my hobbies involve building labs environment, networks, IOT. -->
 <p align='center'>
-  I am an Sr. Application Security Engineer (DevSecOps) working to secure web apps one app at a time.
+  Penetration tester by day master or googling by night in endless rabit holes. 
 </p>
 
 <p align='center'>
