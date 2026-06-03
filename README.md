@@ -36,6 +36,14 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p align='center'>
+  💻 LLM workspaces<br/><br/>
+  <img src="https://img.shields.io/badge/CORSAIR%20AI%20WORKSTATION%20300-%230078D6.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-128GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <br/>
+</p>
+
 ### Languages and Tools:
 <code><img width="24px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img width="24px"  src="https://portswigger.net/content/images/svg/icons/professional.svg"></code>
